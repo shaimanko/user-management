@@ -1,0 +1,56 @@
+.registration-section .form-component .form-control {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.registration-section .form-component .form-control.form-label {
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+
+.registration-section .form-component .form-control .form-elements {
+  margin-bottom: 12px;
+}
+
+.registration-section .form-component .form-control.error .form-elements {
+  margin-bottom: 0;
+}
+
+.registration-section .form-component .input-field {
+  margin: 15px 0 0 0;
+}
+
+.registration-section .form-component .label-section {
+  line-height: 1.8em;
+  margin-right: 5px;
+  text-align: right;
+}
+
+.registration-section .form-component .label-section .required {
+  color: #f44336;
+}
+
+.registration-section .form-component .elements {
+  padding: 20px 0;
+}
+
+.registration-section .form-component .buttons {
+  text-align: right;
+}
+
+.registration-section .form-component .buttons > * {
+  margin-left: 15px;
+}
+
+.registration-title-section {
+  display: flex;
+}
+
+.registration-title-section .title-section {
+  margin: auto;
+  width: 100%;
+}
+
+.registration-title-section .button-section {
+  justify-content: flex-end;
+}
